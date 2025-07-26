@@ -1,23 +1,25 @@
-# 👋 ¡Hola! Soy Lucas Lugo
+# Lucas Lugo
 
 **Ingeniero de Datos en formación | Especialista en IA aplicada | Desarrollador Fullstack**
 
-- 🎓 Estudiante de **Ingeniería de Datos**  en la UAB
-- 🤖 Especializado en **IA aplicada a forecasting, trading algorítmico y videojuegos inteligentes**
-- 🧠 Interesado en: **Deep Learning**, **Machine Learning aplicado**, **Quant Finance** y **desarrollo de videojuegos indie**
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-lxve.blog-blue?style=for-the-badge)](https://lxve.blog)
+
+-  Estudiante de **Ingeniería de Datos**  en la UAB
+-  Especializado en **IA aplicada a forecasting, trading algorítmico**
+-  Interesado en: **Deep Learning**, **Machine Learning aplicado** y **Quant Finance**
 
 ---
 
 ## 🛠️ Especializaciones
+
+**🌐 Fullstack Web + Datos**  
+Node.js | Django | Next.js | Tailwind | Html | CSS | SQL/NoSQL
 
 **📊 Forecasting con IA**  
 Modelos clásicos (ETS, ARIMA) y modernos (DeepAR, N-BEATS, Transformers)
 
 **📈 Quant Finance**  
 Trading algorítmico, backtesting y optimización de estrategias
-
-**🌐 Fullstack Web + Datos**  
-Node.js | Django | Next.js | Tailwind | Html | CSS | SQL/NoSQL
 
 ---
 
