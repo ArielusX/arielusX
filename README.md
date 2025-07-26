@@ -1,77 +1,64 @@
 # 👋 ¡Hola! Soy Lucas Lugo
 
-Soy **Ingeniero de Datos en formación en la UAB**, con un sólido background en **Desarrollo de Aplicaciones Web y Multiplataforma (DAW & DAM)** y una especialización en **Inteligencia Artificial**. 
+**Ingeniero de Datos en formación | Especialista en IA aplicada | Desarrollador Fullstack**
 
----
-
-## 💡 Sobre mí
-
-- 📍 Vivo en **Barcelona**
 - 🎓 Estudiante de **Ingeniería de Datos**  en la UAB
 - 🤖 Especializado en **IA aplicada a forecasting, trading algorítmico y videojuegos inteligentes**
 - 🧠 Interesado en: **Deep Learning**, **Machine Learning aplicado**, **Quant Finance** y **desarrollo de videojuegos indie**
-- 🎮 Desarrollo juegos en Unity en mi tiempo libre
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛠️ Especializaciones
 
-### 🎯 Quant Forecast Nexus (en desarrollo)
-> Sistema de predicción de series temporales financieras combinando modelos clásicos (ARIMA, Prophet) y redes neuronales (LSTM, Attention). Incluye visualización interactiva, optimización de portafolios y simulación de estrategias de trading.
+**📊 Forecasting con IA**  
+Modelos clásicos (ETS, ARIMA) y modernos (DeepAR, N-BEATS, Transformers)
 
-### 🧠 Forecasting Playground (en desarrollo)
-> Entorno interactivo para experimentar con modelos de forecasting, métricas de evaluación (MAE, RMSE, MASE) y datasets reales (finanzas, energía, precios inmobiliarios, etc.).
+**📈 Quant Finance**  
+Trading algorítmico, backtesting y optimización de estrategias
 
-### 🍣 SushiPredict (en desarrollo)
-> Aplicación en Flutter para gestión de pedidos en un restaurante, con perfil de consumo por cliente y predicción de demanda por hora mediante modelos de aprendizaje automático.
-
----
-
-## 🎮 Mi juego publicado en Google Play
-
-📱 [Survival Nights](https://play.google.com/store/apps/details?id=com.ArielusGames.SurvivalNights)  
-> Juego 3D de supervivencia con animales, vehículos y sistema de construcción al estilo *Rust*.  
+**🌐 Fullstack Web + Datos**  
+Node.js | Django | Next.js | Tailwind | Html | CSS | SQL/NoSQL
 
 ---
 
-## 🧠 Enfoques de especialización actuales
+## 🚀 Proyectos Destacados
 
-- **Forecasting con IA:** desde modelos clásicos (ETS, ARIMA) hasta arquitecturas modernas (DeepAR, N-BEATS, Transformers)
-- **Quant Finance & Trading Algorítmico:** simulaciones, backtesting y optimización de estrategias
-- **Fullstack Web + Datos:** desarrollo de apps con frontend moderno (Next.js, Tailwind) y backend en Python/FastAPI o Node.js
+### 🏠 LSTM Housing Price Forecasting
+_Predicción de series temporales financieras combinando modelos clásicos y redes neuronales_  
+🛠️ Python | TensorFlow | Prophet   
+📌 [Repositorio](#) | [Demo](#)
 
----
+### 🤖 ML Trading Bot 
+_Entorno interactivo para experimentar con modelos de forecasting_  
+🛠️ Jupyter | Scikit-learn   
+📌 [Repositorio](#)
 
-## 📚 Roadmap profesional
+### 🧪 Forecasting Playground 
+_Entorno interactivo para experimentar con modelos de forecasting_  
+🛠️ Jupyter | Scikit-learn   
+📌 [Repositorio](#)
 
-🎯 Objetivo: Máster en **Inteligencia Artificial @UPC**
-
----
-
-## 🛠️ Tecnologías favoritas
-
-| Área               | Tecnologías principales                                  |
-|--------------------|----------------------------------------------------------|
-| **IA / ML**        | PyTorch, scikit-learn, TensorFlow, Prophet, XGBoost      |
-| **Forecasting**    | statsmodels, DeepAR, N-BEATS, SARIMA, LSTM               |
-| **Web Dev**        | React, Next.js, TailwindCSS, Node.js, Flask, Django      |
-| **Datos & ETL**    | Pandas, NumPy, SQL                                       |
-| **Infra & DevOps** | Docker, GitHub Actions, AWS, PostgreSQL                  |
-| **Otros**          | Unity 3D, Neo4j, Flutter, TypeScript                     |
+### 🍣 SushiPredict 
+_Aplicación Flutter con predicción de demanda mediante ML_  
+🛠️ Flutter | Firebase | Scikit-learn
 
 ---
 
-## 📈 GitHub Stats
+## 🎮 Survival Nights 
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ArielusGames.SurvivalNights)  
+Juego 3D de supervivencia estilo Rust con IA avanzada  
+🛠️ Unity | C# | Blender
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslugo-dev&layout=compact&theme=radical)
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslugo-dev&layout=compact&theme=radical&hide=html,css)
 
 ---
 
 ## 📬 Contacto
 
-- 📧 lxveo.dev@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-ariel-lugo-vera-21541b240/)  
-- 🌐 [Portfolio web](https://lxve.blog)
-
----
-
+📧 lxveo.dev@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/lucas-ariel-lugo-vera-21541b240/)  
+🌐 [Portfolio](https://lxve.blog)  
