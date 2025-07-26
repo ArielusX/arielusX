@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Lucas Lugo
 
-Soy **Ingeniero de Datos en formación en la UAB**, con un sólido background en **Desarrollo de Aplicaciones Web y Multiplataforma (DAW & DAM)** y una especialización en **Inteligencia Artificial**. Me apasiona el software de alto impacto, el análisis de datos y el potencial de la IA para transformar industrias como las finanzas.
+Soy **Ingeniero de Datos en formación en la UAB**, con un sólido background en **Desarrollo de Aplicaciones Web y Multiplataforma (DAW & DAM)** y una especialización en **Inteligencia Artificial**. 
 
 ---
 
 ## 💡 Sobre mí
 
-- 📍 Vivo en **Barcelona**, aunque soy originalmente de **Argentina 🇦🇷**
-- 🎓 Estudiante de **Ingeniería de Datos** @UAB
+- 📍 Vivo en **Barcelona**
+- 🎓 Estudiante de **Ingeniería de Datos**  en la UAB
 - 🤖 Especializado en **IA aplicada a forecasting, trading algorítmico y videojuegos inteligentes**
 - 🧠 Interesado en: **Deep Learning**, **Machine Learning aplicado**, **Quant Finance** y **desarrollo de videojuegos indie**
 - 🎮 Desarrollo juegos en Unity en mi tiempo libre
@@ -19,10 +19,10 @@ Soy **Ingeniero de Datos en formación en la UAB**, con un sólido background en
 ### 🎯 Quant Forecast Nexus (en desarrollo)
 > Sistema de predicción de series temporales financieras combinando modelos clásicos (ARIMA, Prophet) y redes neuronales (LSTM, Attention). Incluye visualización interactiva, optimización de portafolios y simulación de estrategias de trading.
 
-### 🧠 Forecasting Playground
+### 🧠 Forecasting Playground (en desarrollo)
 > Entorno interactivo para experimentar con modelos de forecasting, métricas de evaluación (MAE, RMSE, MASE) y datasets reales (finanzas, energía, precios inmobiliarios, etc.).
 
-### 🍣 SushiPredict
+### 🍣 SushiPredict (en desarrollo)
 > Aplicación en Flutter para gestión de pedidos en un restaurante, con perfil de consumo por cliente y predicción de demanda por hora mediante modelos de aprendizaje automático.
 
 ---
@@ -52,18 +52,17 @@ Soy **Ingeniero de Datos en formación en la UAB**, con un sólido background en
 
 | Área               | Tecnologías principales                                  |
 |--------------------|----------------------------------------------------------|
-| **IA / ML**        | PyTorch, scikit-learn, TensorFlow, Prophet, XGBoost     |
-| **Forecasting**    | statsmodels, DeepAR, N-BEATS, SARIMA, LSTM              |
-| **Web Dev**        | React, Next.js, TailwindCSS, Node.js, Flask, Django     |
+| **IA / ML**        | PyTorch, scikit-learn, TensorFlow, Prophet, XGBoost      |
+| **Forecasting**    | statsmodels, DeepAR, N-BEATS, SARIMA, LSTM               |
+| **Web Dev**        | React, Next.js, TailwindCSS, Node.js, Flask, Django      |
 | **Datos & ETL**    | Pandas, NumPy, SQL                                       |
-| **Infra & DevOps** | Docker, GitHub Actions, AWS, PostgreSQL                 |
-| **Otros**          | Unity 3D, Neo4j, Flutter, TypeScript                    |
+| **Infra & DevOps** | Docker, GitHub Actions, AWS, PostgreSQL                  |
+| **Otros**          | Unity 3D, Neo4j, Flutter, TypeScript                     |
 
 ---
 
 ## 📈 GitHub Stats
 
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslugo-dev&show_icons=true&theme=radical&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslugo-dev&layout=compact&theme=radical)
 
 ---
