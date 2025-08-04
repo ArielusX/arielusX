@@ -1,5 +1,6 @@
 # Lucas Lugo 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-lxve.blog-blue?style=for-the-badge)](https://lxve.blog)
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-lxve.blog-blue?style=for-the-badge)](https://lxve.blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucas-ariel-lugo-vera-21541b240)
 
 **Ingeniero de Datos en formación | Especialista en IA aplicada | Desarrollador Fullstack**
 
@@ -31,22 +32,3 @@ _Entorno interactivo para experimentar con modelos de forecasting_
 📌 [Repositorio](#)  | [Demo](#)
 
 ---
-
-## 🎮 Survival Nights 
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ArielusGames.SurvivalNights)  
-Juego 3D de supervivencia estilo Rust con IA avanzada  
-🛠️ Unity | C# | Blender
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslugo-dev&layout=compact&theme=radical&hide=html,css)
-
----
-
-## 📬 Contacto
-
-📧 lxveo.dev@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/lucas-ariel-lugo-vera-21541b240/)  
-🌐 [Portfolio](https://lxve.blog)  
