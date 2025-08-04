@@ -5,8 +5,7 @@
 
 -  Estudiante de **Ingeniería de Datos**  en la UAB
 -  Especializado en **IA aplicada a forecasting, desarrollo Fullstack**
--  Interesado en: **Deep Learning**, **Machine Learning aplicado** y **Quant Finance**
-
+-  
 ---
 
 ## 🛠️ Especializaciones
@@ -15,7 +14,7 @@
 Node.js | Django | Next.js | Tailwind | Html | CSS | SQL/NoSQL
 
 **📊 Forecasting con IA**  
-Modelos clásicos (ETS, ARIMA) y modernos (DeepAR, N-BEATS, Transformers)
+Modelos clásicos (ETS, ARIMA) y modernos (Linear Regression, Random Forest, XGBoost, LSTM, Redes neuronales)
 
 ---
 
@@ -29,16 +28,7 @@ _Predicción de series temporales financieras combinando modelos clásicos y red
 ### 🤖 ML Trading Bot 
 _Entorno interactivo para experimentar con modelos de forecasting_  
 🛠️ Jupyter | Scikit-learn   
-📌 [Repositorio](#)
-
-### 🧪 Forecasting Playground 
-_Entorno interactivo para experimentar con modelos de forecasting_  
-🛠️ Jupyter | Scikit-learn   
-📌 [Repositorio](#)
-
-### 🍣 SushiPredict 
-_Aplicación Flutter con predicción de demanda mediante ML_  
-🛠️ Flutter | Firebase | Scikit-learn
+📌 [Repositorio](#)  | [Demo](#)
 
 ---
 
