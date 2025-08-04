@@ -5,7 +5,7 @@
 
 -  Estudiante de **Ingeniería de Datos**  en la UAB
 -  Especializado en **IA aplicada a forecasting, desarrollo Fullstack**
--  
+  
 ---
 
 ## 🛠️ Especializaciones
