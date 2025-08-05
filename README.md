@@ -6,8 +6,6 @@
 
 -  Estudiante de **Ingeniería de Datos**  en la UAB
 -  Especializado en **IA aplicada a forecasting, desarrollo Fullstack**
-  
----
 
 ## 🛠️ Especializaciones
 
@@ -17,7 +15,6 @@ Node.js | Django | Next.js | Tailwind | Html | CSS | SQL/NoSQL
 **📊 Forecasting con IA**  
 Modelos clásicos (ETS, ARIMA) y modernos (Linear Regression, Random Forest, XGBoost, LSTM, Redes neuronales)
 
----
 
 ## 🚀 Proyectos Destacados
 
@@ -31,4 +28,3 @@ _Entorno interactivo para experimentar con modelos de forecasting_
 🛠️ Jupyter | Scikit-learn   
 📌 [Repositorio](#)  | [Demo](#)
 
----
