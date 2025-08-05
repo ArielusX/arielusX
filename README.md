@@ -10,10 +10,10 @@
 ## 🛠️ Especializaciones
 
 **🌐 Fullstack Web**  
-Desarrollo fullstack con Node.js, Django, Next.js, Tailwind CSS, HTML/CSS, y bases de datos SQL y NoSQL, enfocado en soluciones web integradas con datos.
+Desarrollo fullstack con Node.js, Django, Next.js, Tailwind CSS y bases de datos SQL y NoSQL.
 
 **📊 Ingeniero de Datos & IA**  
-Procesamiento y análisis de datos con Python y Pandas. Desarrollo de modelos de Machine Learning e IA con TensorFlow y scikit-learn para soluciones predictivas.
+Análisis de datos con Python y Pandas. Desarrollo de modelos de Machine Learning con TensorFlow y scikit-learn.
 
 ## 🚀 Proyectos Destacados
 
