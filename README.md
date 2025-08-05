@@ -9,22 +9,18 @@
 
 ## 🛠️ Especializaciones
 
-**🌐 Fullstack Web + Datos**  
-Node.js | Django | Next.js | Tailwind | Html | CSS | SQL/NoSQL
+**🌐 Fullstack Web**  
+Desarrollo fullstack con Node.js, Django, Next.js, Tailwind CSS, HTML/CSS, y bases de datos SQL y NoSQL, enfocado en soluciones web integradas con datos.
 
-**📊 Forecasting con IA**  
-Modelos clásicos (ETS, ARIMA) y modernos (Linear Regression, Random Forest, XGBoost, LSTM, Redes neuronales)
-
+**📊 Ingeniero de Datos & IA**  
+Procesamiento y análisis de datos con Python y Pandas. Desarrollo de modelos de Machine Learning e IA con TensorFlow y scikit-learn para soluciones predictivas.
 
 ## 🚀 Proyectos Destacados
 
 ### 🏠 LSTM Housing Price Forecasting
-_Predicción de series temporales financieras combinando modelos clásicos y redes neuronales_  
-🛠️ Python | TensorFlow | Prophet   
-📌 [Repositorio](#) | [Demo](#)
+_Predicción de series temporales financieras combinando modelos clásicos y redes neuronales_   
+[Repositorio](#) | [Demo](#)
 
 ### 🤖 ML Trading Bot 
 _Entorno interactivo para experimentar con modelos de forecasting_  
-🛠️ Jupyter | Scikit-learn   
-📌 [Repositorio](#)  | [Demo](#)
-
+[Repositorio](#)  | [Demo](#)
